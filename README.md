@@ -1,4 +1,4 @@
-## gearvn-leave-request
+## leave-request (sharepoint framework)
 
 This is where you include your WebPart documentation.
 
